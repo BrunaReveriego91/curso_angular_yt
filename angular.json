@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "teoria"
+  "defaultProject": "teoria",
+  "cli": {
+    "analytics": "599f31f5-40a3-4b22-b572-8b99871c2d62"
+  }
 }
